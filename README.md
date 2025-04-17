@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ahmed Shawky.
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on new projects for more challenges.
+- 👋 Hi, I’m Ahmed Shawky .
+- 👀 I’m interested in Coding .
+- 🌱 I’m currently learning web development .
+- 💞️ I’m looking to collaborate on new projects for more challenges .
 - 📫 How to reach me ahshawky7@gmail.com .
 - ⚡ About me : No Scare but I left my Mark --------------------{>>
 
