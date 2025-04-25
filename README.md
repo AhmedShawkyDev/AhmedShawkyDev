@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js , React.js**
 
-- 👨‍💻 All of my projects are available at [not yet =D](not yet =D)
+- 👨‍💻 All of my projects are available at not yet =D
 
 - 💬 Ask me about **React , tailwind**
 
