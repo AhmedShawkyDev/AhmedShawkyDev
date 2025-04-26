@@ -20,11 +20,11 @@ height="50" alt="ahmedshawkydev" /> </p>
     </a>
 
 <h3 align="center">🛠️ Languages & Tools:</h3>
-  <p align="center">
+  <p align="left">
     <img height="100" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,react,materialui,next,shadcn,git,github,postman,"/>
   </p>
 
-  <p align="center"> <!-- Languages -->
+  <p align="right"> <!-- Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshawkydev&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedshawkydev&show_icons=true&theme=codeSTACKr&locale=en" alt="ahmedshawkydev" /></p>
