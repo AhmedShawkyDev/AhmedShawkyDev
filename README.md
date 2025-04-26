@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Shawky</h1>
-<h3 align="center">frontend developer</h3>
+<h1 align="center">Hello!, I'm Ahmed Shawky</h1>
+<h2 align="center">Frontend Developer</h2><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshawkydev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedshawkydev" /> </p>
 
