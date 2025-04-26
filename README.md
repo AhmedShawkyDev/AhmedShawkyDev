@@ -4,7 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedshawkydev&label=Profile%20views&color=0e75b6&style=flat" 
 height="50" alt="ahmedshawkydev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedshawkydev&theme=onedark" alt="ahmedshawkydev" /></a> </p>
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedshawkydev&theme=onestar&row=1&column=7"/>
+  </p>
 
 
 - 🌱 I’m currently learning **Next.js , React.js**
