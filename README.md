@@ -25,7 +25,7 @@ height="50" alt="ahmedshawkydev" /> </p>
 
 <h3 align="center">🛠️ Languages & Tools:</h3>
   <p align="center">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,next,react,material-ui,git,github,postman,"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,next,react,materialui,git,github,postman,"/>
   </p>
 
   <p align="center"> <!-- Languages -->
