@@ -38,7 +38,7 @@ height="50" alt="ahmedshawkydev" /> </p>
 
 <p align="center"> <!-- Snake -->
    
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
 
 
