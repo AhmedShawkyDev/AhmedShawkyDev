@@ -24,7 +24,7 @@ height="50" alt="ahmedshawkydev" /> </p>
     <img height="100" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,react,materialui,next,shadcn,git,github,postman,"/>
   </p>
 
-<div align="center">
+<div >
   <p align="right"> <!-- Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshawkydev&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
