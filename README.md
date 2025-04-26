@@ -36,6 +36,13 @@ height="50" alt="ahmedshawkydev" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshawkydev&show_icons=true&locale=en&layout=compact" alt="ahmedshawkydev" /></p>
 
+
+
+
+<p align="center"> <!-- Snake -->
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedshawkydev&show_icons=true&locale=en" alt="ahmedshawkydev" /></p>
 
 
