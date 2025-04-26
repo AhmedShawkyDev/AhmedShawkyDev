@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedshawkydev&label=Profile%20views&color=0e75b6&style=flat" 
 height="50" alt="ahmedshawkydev" /> </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
+<h3 align="center">🏆 GitHub Trophies:</h3>
   <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmedshawkydev&theme=onestar&row=1&column=7"/>
   </p>
