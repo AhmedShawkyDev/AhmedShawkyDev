@@ -32,7 +32,7 @@ height="50" alt="ahmedshawkydev" /> </p>
   <p align="center"> <!-- Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshawkydev&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
-
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedshawkydev&show_icons=true&theme=codeSTACKr&locale=en" alt="ahmedshawkydev" /></p>
 
 
 
@@ -40,6 +40,6 @@ height="50" alt="ahmedshawkydev" /> </p>
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedshawkydev&show_icons=true&theme=codeSTACKr&locale=en" alt="ahmedshawkydev" /></p>
+
 
 
