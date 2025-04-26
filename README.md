@@ -5,7 +5,7 @@
 height="50" alt="ahmedshawkydev" /> </p>
 
 <h3 align="center">🏆 GitHub Trophies:</h3>
-  <p align="left">
+  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmedshawkydev&theme=onestar&row=1&column=7"/>
   </p>
 
