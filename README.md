@@ -34,7 +34,9 @@ height="50" alt="ahmedshawkydev" /> </p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="150" height="150"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="150" height="150"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="150" height="150"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshawkydev&show_icons=true&locale=en&layout=compact" alt="ahmedshawkydev" /></p>
+  <p align="left"> <!-- Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshawkydev&layout=compact&langs_count=5&theme=codeSTACKr"/>
+  </p>
 
 
 
