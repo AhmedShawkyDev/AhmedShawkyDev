@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello!, I'm Ahmed Shawky</h1>
-<h2 align="center">Frontend Developer</h2><br>
+<h1 align="center">Frontend Developer</h1><br>
 
 
 
