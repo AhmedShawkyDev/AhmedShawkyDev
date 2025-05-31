@@ -2,8 +2,7 @@
 <h1 align="center">Hello!, I'm Ahmed Shawky</h1>
 <h2 align="center">Frontend Developer</h2><br>
 
-// <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedshawkydev&label=Profile%20views&color=F1502F&style=flat" 
-height="50" alt="ahmedshawkydev" /> </p>
+
 
 <h3 align="center">🏆 GitHub Trophies:</h3>
   <p align="center">
