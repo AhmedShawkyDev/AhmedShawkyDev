@@ -24,9 +24,9 @@
  
 
 
-  <p align="center"> <!-- Languages -->
+  <!--<p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshawkydev&layout=compact&langs_count=5&theme=codeSTACKr"/>
-  </p>
+  </p>-->
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedshawkydev&show_icons=true&theme=codeSTACKr&locale=en" alt="ahmedshawkydev" /></p> -->
 
   
