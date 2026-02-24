@@ -39,6 +39,10 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
 
-
+<h3 align="left">MY Portifolio</h3>
+<p align="left">
+  <a href="https://portfolio-liard-nine-71.vercel.app/en">
+      <img width="1876" height="846" alt="image" src="https://github.com/user-attachments/assets/ddd34da6-3f53-4079-b8c9-a4bf1b49ba9c" />
+    </a>
 
 
