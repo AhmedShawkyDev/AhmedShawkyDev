@@ -20,7 +20,7 @@
   <p align="center">
     <img  height="150" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind"/>
     <img  height="100" src="https://go-skill-icons.vercel.app/api/icons?i=react,typescript,materialui,next,shadcn,git,github,postman,wordpress">
-    <img  height="100" src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,python,pandas,numpy">
+    <img  height="100" src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,python,pandas,numpy,sql">
   </p>
  
 
