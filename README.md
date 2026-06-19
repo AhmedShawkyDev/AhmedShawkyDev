@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">🏆 GitHub Trophies:</h3>
+<!-- <h3 align="center">🏆 GitHub Trophies:</h3> -->
   
 
 
